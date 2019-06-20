@@ -1,0 +1,7 @@
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\bin\Debug\DUCodeChallenge.exe.config
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\bin\Debug\DUCodeChallenge.exe
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\bin\Debug\DUCodeChallenge.pdb
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\obj\Debug\DUCodeChallenge.csprojAssemblyReference.cache
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\obj\Debug\DUCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\obj\Debug\DUCodeChallenge.exe
+C:\Users\16164\Documents\Random Repos\DU_CodeChallenge\DUCodeChallenge\DUCodeChallenge\obj\Debug\DUCodeChallenge.pdb
